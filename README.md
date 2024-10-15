@@ -8,7 +8,7 @@ In this series, we’ll build a full stack web application for a Computer Repair
 
 This Next.js Full Stack Project tutorial series is made possible by [Sentry](https://bit.ly/try-sentry-dg). I consider [Sentry](https://bit.ly/try-sentry-dg) to be an essential part of my tech stack, and we will be using [Sentry](https://bit.ly/try-sentry-dg) in this Next.js full stack project.
 
-![Next.js Full Stack Project](./readme-banner.PNG?raw=true)
+![Next.js Full Stack Project](./readme-banner.png?raw=true)
 
 ## Lesson Help
 If you get stuck on any lesson in the series, (1) navigate to the course branch for your current lesson and (2) view or (3) download the code for more help.
