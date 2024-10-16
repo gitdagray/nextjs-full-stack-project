@@ -51,7 +51,7 @@ npm run build
 - 🔗 [ShadCN/ui](https://ui.shadcn.com/)
 - 🔗 [Sentry](https://bit.ly/sentry-docs-dg)
 - 🔗 [Kinde](https://kinde.com/)
-- 🔗 [Neon](https://neon.tech/)
+- 🔗 [Neon](https://fyi.neon.tech/davegray)
 - 🔗 [Drizzle ORM](https://orm.drizzle.team/)
 - 🔗 [react-hook-form](https://react-hook-form.com/)
 - 🔗 [Zod](https://zod.dev/)
