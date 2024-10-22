@@ -50,7 +50,7 @@ npm run build
 - 🔗 [TailwindCSS](https://tailwindcss.com/)
 - 🔗 [ShadCN/ui](https://ui.shadcn.com/)
 - 🔗 [Sentry](https://bit.ly/sentry-docs-dg)
-- 🔗 [Kinde Auth](https://kinde.com/)
+- 🔗 [Kinde Auth](https://kinde.com/dgray-nextjsstack/)
 - 🔗 [Neon Postgres](https://fyi.neon.tech/davegray)
 - 🔗 [Drizzle ORM](https://orm.drizzle.team/)
 - 🔗 [react-hook-form](https://react-hook-form.com/)
