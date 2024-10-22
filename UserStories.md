@@ -1,7 +1,7 @@
 # User Stories for Repair Shop App
 
 1. [ ] Replace current sticky note system
-2. [ ] Add a public facing page with basic contact info 
+2. [x] Add a public facing page with basic contact info 
 3. [ ] Add a passwordless employee login to the app 
 4. [ ] Show a real-time open tickets page after login 
 5. [ ] Provide easy navigation & search for customers & tickets 
@@ -18,5 +18,5 @@
 16. [ ] Employees can only edit their assigned tickets  
 17. [ ] Managers and Admins can view, edit, and delete all tickets 
 18. [ ] Desktop mode is most important but the app should be usable on tablet devices as well. 
-19. [ ] Light / Dark mode option requested by employees 
-20. [ ] Expects quick support if anything goes wrong with the app
+19. [x] Light / Dark mode option requested by employees 
+20. [x] Expects quick support if anything goes wrong with the app
